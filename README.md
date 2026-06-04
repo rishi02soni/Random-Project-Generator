@@ -30,7 +30,7 @@ Domain       : Artificial Intelligence
 Technology   : Python
 Difficulty   : Intermediate
 
-🎯 Project Description
+ Project Description
 --------------------------------------------------
 Build an AI Assistant using Python in the field of
 Artificial Intelligence.
