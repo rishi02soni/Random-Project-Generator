@@ -40,5 +40,6 @@ Artificial Intelligence.
 1. Understand project structure and architecture.
 2. Improve problem-solving and coding skills.
 3. Gain hands-on experience with modern technologies.
-
-🔥 Happy Coding!
+```
+ Happy Coding!
+```
