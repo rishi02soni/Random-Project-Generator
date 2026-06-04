@@ -35,7 +35,7 @@ Difficulty   : Intermediate
 Build an AI Assistant using Python in the field of
 Artificial Intelligence.
 
-✅ Learning Outcomes
+ Learning Outcomes
 --------------------------------------------------
 1. Understand project structure and architecture.
 2. Improve problem-solving and coding skills.
