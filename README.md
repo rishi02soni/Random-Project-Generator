@@ -10,7 +10,7 @@ A simple Python application that generates random project ideas for developers, 
 - Beginner-friendly Python code
 - No external dependencies required
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 
