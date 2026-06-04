@@ -23,7 +23,7 @@ git clone <repository-url>
 ```
  RANDOM PROJECT GENERATOR
 
-📌 Project Idea
+ Project Idea
 --------------------------------------------------
 Project Name : AI Assistant
 Domain       : Artificial Intelligence
