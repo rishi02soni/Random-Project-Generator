@@ -22,7 +22,7 @@ A simple Python application that generates random project ideas for developers, 
 git clone <repository-url>
 ```
  RANDOM PROJECT GENERATOR
-
+ 
  Project Idea
 --------------------------------------------------
 Project Name : AI Assistant
