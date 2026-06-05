@@ -1,7 +1,7 @@
 #  Random Project Generator
  
 A simple Python application that generates random project ideas for developers, students, and tech enthusiasts. The project randomly combines domains, technologies, and project types to inspire new learning and development projects.
-   
+    
 ## Features
 
 - Generates random project ideas
