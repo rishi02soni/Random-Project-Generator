@@ -15,7 +15,7 @@ A simple Python application that generates random project ideas for developers, 
 - Python 3
 
 ##  How to Run
-
+ 
 1. Clone the repository
 
 ```
